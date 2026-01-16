@@ -1,4 +1,4 @@
-- ## External Application Context
+## External Application Context
 
 While enrolled in **STAT 200**, I began contributing to the **Mathematics Persistence Through Inquiry and Equity (MPIE)** research project.
 
