@@ -15,4 +15,3 @@
 - Translating between algebraic, graphical, and physical viewpoints
 - Solving optimization problems under constraints
 - Applying Jacobians when changing variables in integrals
-- Understanding the relationships between fundamental vector calculus theorems
