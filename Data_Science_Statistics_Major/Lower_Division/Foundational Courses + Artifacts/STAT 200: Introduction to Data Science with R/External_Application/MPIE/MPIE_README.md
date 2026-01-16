@@ -17,7 +17,7 @@ With this project, a collaborative team from a **two-year institution and a four
 
 This work is expected to impact up to **10,000 students** across the project's lifespan. By improving these courses, we aim to **broaden participation in STEM fields** and contribute valuable research to institutional change efforts at two-year HSIs. Findings will be shared through **research publications, workshops, professional development conferences, and network improvement communities**.  
 
-🔗 [More about the MPIE Project](https://crmse.sdsu.edu/directory/projects/mpie)  
+🔗 [More about the MPIE Project](https://crmse.sdsu.edu/directory/projects/mpie)   
 
 ## **Repository Purpose**  
 This repository contains R scripts for **data analysis and visualization** of course pass rates in gateway mathematics courses. The scripts focus on:  
