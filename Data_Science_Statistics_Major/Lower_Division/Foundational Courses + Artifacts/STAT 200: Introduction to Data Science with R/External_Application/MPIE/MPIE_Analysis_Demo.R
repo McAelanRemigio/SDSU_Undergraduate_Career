@@ -1,11 +1,9 @@
-# ============================================================
 # MPIE Analysis (Clean Version)
 # Author: McAelan Remigio
 # Notes:
 # - This script assumes `data`, `tidy_data`, and
 #   `tidy_mpie_data_with_instructor` are already loaded.
 # - No student-level data is included in the repo.
-# ============================================================
 
 library(dplyr)
 library(tidyr)
