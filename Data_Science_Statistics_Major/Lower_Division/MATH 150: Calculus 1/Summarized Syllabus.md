@@ -11,4 +11,3 @@
 - Analyzing function behavior using limits
 - Applying derivatives to rates of change and optimization problems
 - Connecting differentiation and integration conceptually
-- Translating between graphical, algebraic, and numerical representations
