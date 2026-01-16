@@ -21,7 +21,6 @@
   - Polar coordinates and conic sections
 
 ### Mathematical Skills Developed
-- Choosing appropriate integration techniques
 - Modeling real-world phenomena with differential equations
 - Analyzing convergence behavior of infinite series
 - Working fluently across Cartesian, parametric, and polar systems
