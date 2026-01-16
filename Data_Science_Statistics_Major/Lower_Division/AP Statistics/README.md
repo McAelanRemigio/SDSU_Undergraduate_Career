@@ -1,0 +1,1 @@
+AP Statistics fulfilled credit for STAT 250: Statistical Principles and Practices / STAT 119: Elementary Statistics for Business prior to enrollment. As a result, no coursework artifacts are available, but the credit represents foundational knowledge in probability, hypothesis testing, and statistical inference.
