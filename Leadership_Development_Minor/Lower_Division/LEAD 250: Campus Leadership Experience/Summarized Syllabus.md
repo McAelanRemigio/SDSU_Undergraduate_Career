@@ -9,3 +9,7 @@ journey. While the focus of this course is to provide you with support as you ap
 practice and gain valuable leadership experience, you will complete required assignments
 designed to facilitate reflection and provide you with constructive feedback during your
 leadership journey.
+
+LEADERSHIP ROLE
+Founding President of Data Science Initiative SDSU
+https://www.linkedin.com/company/data-science-initiative-sdsu/ 
