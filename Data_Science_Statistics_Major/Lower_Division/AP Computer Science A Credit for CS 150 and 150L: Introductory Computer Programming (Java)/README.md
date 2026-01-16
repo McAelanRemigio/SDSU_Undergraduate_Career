@@ -1,0 +1,1 @@
+This course was fulfilled through AP Computer Science A credit prior to enrollment. As a result, no coursework artifacts are available, but the credit represents foundational knowledge in probability, hypothesis testing, and statistical inference.
