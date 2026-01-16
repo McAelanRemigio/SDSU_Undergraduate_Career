@@ -25,7 +25,7 @@
 - Intentional continuation of a personal leadership journey
 
 
-LEADERSHIP ROLE
+### LEADERSHIP ROLE
 
 Founding President of Data Science Initiative SDSU
 
