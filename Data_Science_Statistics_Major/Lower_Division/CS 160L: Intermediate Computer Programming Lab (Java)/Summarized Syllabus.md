@@ -3,7 +3,7 @@
 ### Course Focus
 - Hands-on programming exercises reinforcing core computer science concepts
 - Active experimentation with code to deepen understanding of algorithms and program behavior
-- Emphasis on learning through implementation rather than theory alone
+- Emphasis on learning through implementation
 
 ### Skills Developed
 - Translating abstract concepts into working code
