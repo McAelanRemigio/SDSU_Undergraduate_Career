@@ -1,23 +1,29 @@
-COURSE OVERVIEW:
-The field lab in leadership is an opportunity for you to apply leadership theory and readings to
+## LEAD 250 – Campus Leadership Experience
 
-practice through integrating the knowledge you gained in LEAD 205 to your experience in a
+### Core Learning Focus
+- Application of leadership theory in an active campus leadership role
+- Translating concepts from LEAD 205 into real-world leadership practice
+- Development of leadership capacity through guided reflection and feedback
+- Exploration of emergent leadership within organizational settings
 
-specific leadership position on campus where you are able to lead others. In this course, you will
+### Key Leadership Competencies Developed
+- Leading peers within a campus-based organization or initiative
+- Applying leadership theory to decision-making, communication, and group dynamics
+- Navigating leadership challenges in real time
+- Developing self-awareness through structured reflection
 
-identify a particular leadership role that you will hold during this semester. We will meet
+### Applied Learning & Practice
+- Held a defined leadership role throughout the semester
+- Used leadership theory to analyze ongoing leadership experiences
+- Engaged in reflective assignments to assess leadership effectiveness
+- Received feedback to support continuous leadership development
 
-throughout the semester to discuss your experiences, explore emergent leadership, and work to
+### Conceptual Themes
+- Leadership as practice rather than position
+- Growth-oriented leadership development
+- Reflection as a leadership skill
+- Intentional continuation of a personal leadership journey
 
-develop your leadership abilities and identify ways in which you can continue your leadership
-
-journey. While the focus of this course is to provide you with support as you apply learning to
-
-practice and gain valuable leadership experience, you will complete required assignments
-
-designed to facilitate reflection and provide you with constructive feedback during your
-
-leadership journey.
 
 LEADERSHIP ROLE
 
