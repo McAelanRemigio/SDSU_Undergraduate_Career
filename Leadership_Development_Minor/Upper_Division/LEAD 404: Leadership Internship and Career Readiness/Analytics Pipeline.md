@@ -20,3 +20,28 @@ During my internship, I developed a repeatable process for collecting, cleaning,
 
 ### Output
 - Summary tables and reports used in decision-making discussions
+
+## Future Implementation Notes
+
+If rebuilding this system today, I would implement the pipeline using Python and SQL to improve scalability and automation.
+
+### Potential Stack
+- Python (pandas, numpy)
+- SQL for structured storage
+- Automated survey ingestion
+- Scheduled reporting
+
+### Improvements
+- Reduced manual processing
+- Version-controlled analysis
+- Reproducible metrics across programs
+
+## Pseudocode: Attendance & Sentiment Analysis
+
+FOR each program:
+    load attendance data
+    load survey responses
+    clean missing values
+    compute attendance totals
+    compute sentiment summary
+    store results for reporting
