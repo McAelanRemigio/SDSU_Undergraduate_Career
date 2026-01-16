@@ -20,8 +20,3 @@
 - Designing and implementing moderately complex software systems
 - Using modern programming tools and workflows, including the C++ build and packaging process
 - Writing code with attention to scalability, performance, and maintainability
-
-### Professional & Technical Development
-- Translating problem statements into computable solutions
-- Communicating technical ideas through code and documentation
-- Developing habits for continued learning in computing and software development
