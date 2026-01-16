@@ -1,0 +1,1 @@
+MATH 245: Discrete Mathematics was fulfilled through transfer credit prior to enrollment. As a result, no original coursework artifacts are available in this folder. This credit represents foundational knowledge in logic, set theory, and number theory.
