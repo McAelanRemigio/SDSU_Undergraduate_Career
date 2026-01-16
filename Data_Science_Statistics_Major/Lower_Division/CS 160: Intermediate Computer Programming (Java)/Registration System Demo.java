@@ -1,6 +1,7 @@
 /**
  * StreamRegistryDemo
  *
+ *
  * Demonstrates advanced Java Stream API usage in a neutral domain.
  *
  * Concepts shown:
@@ -11,6 +12,7 @@
  *   - mapping and transformation
  *   - top-N selection per group
  *   - summary statistics and filtered averages
+ *
  *
  * This example was written as a portfolio demonstration of
  * intermediate-to-advanced Java programming patterns.
