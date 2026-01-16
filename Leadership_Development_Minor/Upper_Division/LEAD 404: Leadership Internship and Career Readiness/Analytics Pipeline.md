@@ -39,9 +39,9 @@ If rebuilding this system today, I would implement the pipeline using Python and
 ## Pseudocode: Attendance & Sentiment Analysis
 
 FOR each program:
-    load attendance data
-    load survey responses
-    clean missing values
-    compute attendance totals
-    compute sentiment summary
-    store results for reporting
+- load attendance data
+- load survey responses
+- clean missing values
+- compute attendance totals
+- compute sentiment summary
+- store results for reporting
