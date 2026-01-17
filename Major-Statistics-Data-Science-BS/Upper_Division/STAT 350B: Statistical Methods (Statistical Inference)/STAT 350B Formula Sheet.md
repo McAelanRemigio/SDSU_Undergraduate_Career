@@ -139,9 +139,11 @@ h_{ii} = x_i^T (X^T X)^{-1} x_i
 $$
 
 High leverage if:
+
 $$
 h_{ii} > \frac{2(k+1)}{n}
 $$
+
 
 ### Cook’s Distance
 $$
