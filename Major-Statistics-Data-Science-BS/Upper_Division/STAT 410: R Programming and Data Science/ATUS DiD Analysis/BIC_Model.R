@@ -1,25 +1,29 @@
-### BIC Null Model and BIC Full Model
+### BIC Comparison: Null vs Full Outcome Model (Exploratory)
 
-# The goal of this project is to use causal inference to determine how remote work affects time use. 
-# We are trying to understand what variables matter and why. 
-# I want to isolate the effect of a treatment (the 2019-2023 period) on the outcome, 
-# being the total time spent working. I want to find out what variables don't bias the estimate, 
-# so I will choose the best fit between BIC models to select only the relevant control variables.
+# Goal: sanity-check whether observed covariates meaningfully explain variation
+# in TTWK (total time spent working). This BIC comparison is used as an
+# exploratory model-fit check (predictive), not as a definitive method for
+# causal control selection.
 
 echo = FALSE
-# null model (intercept only) where TTWK means Total Time Spent Working
+
+# Null model (intercept only)
 null_model <- lm(TTWK ~ 1, data = clean_atus_full)
 
-# full model with all predictors
-full_model <- lm(TTWK ~ TEAGE + TESEX + PEEDUCA + TEMJOT.y + PEHSPNON + TESPEMPNOT.y + PTDTRACE + TRERNWA.y + TELFS.y, data = clean_atus_full)
+# Full model (candidate covariates)
+full_model <- lm(
+  TTWK ~ TEAGE + TESEX + PEEDUCA + PEHSPNON + TESPEMPNOT.y +
+    PTDTRACE + TRERNWA.y + TELFS.y + TEMJOT.y,
+  data = clean_atus_full
+)
 
-bicn = BIC(null_model)
-bicf = BIC(full_model)
+bic_null <- BIC(null_model)
+bic_full <- BIC(full_model)
 
-cat("BICN: ", bicn, "\n")
-cat("BICF: ", bicf, "\n")
+cat("BIC (Null): ", bic_null, "\n")
+cat("BIC (Full): ", bic_full, "\n")
 
-# The full model has a lower BIC compared to the null model, suggesting that the full model 
-# with all the predictors fits the data significantly better than the null model. 
-# Lower BIC means there is a better balance between model fit and complexity. 
-# For the DiD Linear Regression Model with Interactions, we will be using the full model based on BIC.
+# Interpretation:
+# If BIC (Full) < BIC (Null), the covariates improve fit enough to justify
+# added complexity. This supports including relevant covariates in subsequent
+# analyses, while final control choice should still be guided by causal reasoning.
