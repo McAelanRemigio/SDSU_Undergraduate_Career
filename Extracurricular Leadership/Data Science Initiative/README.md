@@ -15,7 +15,7 @@ DSI started as a simple idea: create a real community around data science at SDS
 ### 1) A student community with real structure
 - Founded and scaled SDSU’s first data science organization to **160+ members**
 - Built the early structure of the organization and recruited a founding team to sustain growth
-- Prioritized **depth and impact over breadth** — the goal was not to “collect members,” but to build a strong first wave of true data science culture at SDSU
+- Prioritized **depth and impact over breadth:** the goal was not to “collect members,” but to build a strong first wave of true data science culture at SDSU
 
 ### 2) A year-long skill-building curriculum (early DSI)
 - Designed an academic year-style learning plan intended to teach the fundamentals of data science (from foundations → applied skills)
@@ -50,11 +50,11 @@ Early on, I leaned heavily on my board for community-building, which pushed me t
 
 Building the student consulting arm reinforced the importance of tracking progress, accountability, and sustainable scope when running applied programs at scale.
 
-Leadership classes felt “theoretical” until I lived them. Transformational leadership, in particular, ended up being real: the founding group didn’t just gain skills — we became better teammates, professionals, and people.
+Leadership classes felt “theoretical” until I lived them. Transformational leadership, in particular, ended up being real: the founding group didn’t just gain skills. In every case, we became better teammates, professionals, and people.
 
 ## How DSI Connects to My Work Now
 
-DSI shaped how I approach data science: I care as much about building *people* as building models. I’m drawn to work that is applied, ethical, and grounded in real outcomes — and I take sustainability seriously now (not just intensity).
+DSI shaped how I approach data science: I care as much about building *people* as building models. I’m drawn to work that is applied, ethical, and grounded in real outcomes. I take sustainability seriously now (not just intensity).
 
 ---
 
