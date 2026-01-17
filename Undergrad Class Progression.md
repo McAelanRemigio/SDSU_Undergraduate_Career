@@ -11,6 +11,7 @@
 
 ### Highlighted Coursework
 - 📎 [CS 160 – Intermediate Computer Programming](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Lower_Division/Foundational%20Courses%20%2B%20Artifacts/CS%20160%3A%20Intermediate%20Computer%20Programming%20(Java)) (3 units)
+-🧾 CS 160L – Intermediate Computer Programming Lab (1 unit)
 - 🧾 LEAD 205 – Exploring Leadership (3 units)
 - 🧾 MATH 150 – Calculus I (4 units)
 - 📎 [STAT 350A – Statistical Methods](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/STAT%20350A%3A%20Statistical%20Methods%20(Probability%20Theory)) (3 units)
