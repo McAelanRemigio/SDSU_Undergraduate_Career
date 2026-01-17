@@ -161,10 +161,15 @@ $$
 $$
 
 Where:
+
 $$
-S_{xx} = \sum (x_i - \bar{x})^2, \quad
-S_{xy} = \sum (x_i - \bar{x})(y_i - \bar{y})
+S_{xx} = \sum_{i=1}^{n}(x_i - \bar{x})^2
 $$
+
+$$
+S_{xy} = \sum_{i=1}^{n}(x_i - \bar{x})(y_i - \bar{y})
+$$
+
 
 ### Regression Line
 $$
