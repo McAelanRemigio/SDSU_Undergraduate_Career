@@ -72,10 +72,9 @@ Additional coursework not detailed here.
 ---
 
 ## Spring 2026
-**Units:** 17  
+**Units:** 14 
 
 ### Highlighted Coursework
-- 📎 [STAT 420 – Data Curation and Management](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/STAT%20420%3A%20Data%20Curation%20and%20Management) (3 units)
 - 📎 [CS 577 – Principles and Techniques of Data Science](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/CS%20577%3A%20Principles%20and%20Techniques%20of%20Data%20Science%20(Python)) (3 units)
 - 🧾 MATH 252 – Calculus III (4 units)
 - 🧾 MATH 254 – Linear Algebra (3 units)
