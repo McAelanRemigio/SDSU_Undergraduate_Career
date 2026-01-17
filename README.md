@@ -1,6 +1,12 @@
 # 📘 Undergraduate Coursework Repository  
 **Data Science & Leadership | San Diego State University**
 
+### Quick Links
+- 📘 [Major – Data Science Courses](./Major-Statistics-Data-Science-BS)
+- 🧠 [Leadership Minor Courses](./Minor-Leadership-Development)
+- 🤝 [Extracurricular Leadership](./Extracurricular%20Leadership)
+- 📄 [Undergrad Class Progression](./Undergrad%20Class%20Progression.md)
+
 ---
 
 ## Overview
