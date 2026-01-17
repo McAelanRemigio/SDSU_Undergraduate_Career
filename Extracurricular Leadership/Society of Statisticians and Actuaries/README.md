@@ -3,8 +3,10 @@
 **Roles Held:**  
 - Event Coordinator (August 2023 – December 2023)  
 - Executive Vice President (December 2023 – August 2024)  
-- Executive Secretary (August 2024 – May 2025)  
+- Executive Secretary (August 2024 – May 2025)
+
 **Timeframe:** August 2023 - May 2025
+
 **Location:** San Diego, CA
 
 ## Why I Joined SSA
