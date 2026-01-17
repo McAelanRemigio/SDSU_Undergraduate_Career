@@ -25,7 +25,7 @@ Additional coursework not detailed here.
 ### Highlighted Coursework
 - 📎 [CS 210 – Data Structures and Algorithms](LINK_HERE) (3 units)
 - 🧾 MATH 151 – Calculus II (3 units)
-- 📎 [STAT 200 – Introduction to Data Science in R]([LINK_HERE](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Lower_Division/Foundational%20Courses%20%2B%20Artifacts/STAT%20200%3A%20Introduction%20to%20Data%20Science%20in%20R)) (3 units)
+- 📎 [STAT 200 – Introduction to Data Science in R](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Lower_Division/Foundational%20Courses%20%2B%20Artifacts/STAT%20200%3A%20Introduction%20to%20Data%20Science%20in%20R) (3 units)
 - 📎 [STAT 350B – Statistical Methods II](LINK_HERE) (3 units)
 
 ### Concurrent Experience
