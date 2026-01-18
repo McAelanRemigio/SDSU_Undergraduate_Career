@@ -1,4 +1,4 @@
-# MPIE
+# MPIE 
 ### **Mathematics Persistence Through Inquiry and Equity Project**  
 
 This repository contains R scripts used to analyze course pass rates based on various factors as part of the **Mathematics Persistence Through Inquiry and Equity (MPIE) Project**.  
