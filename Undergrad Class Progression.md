@@ -33,6 +33,8 @@ Additional coursework not detailed here.
 - Data Scientist Apprentice, SDSU Research Foundation (began March 2024)  
 - Shift Leader, Rubio’s (began Feb 2024)
 
+Additional coursework not detailed here.
+
 ---
 
 ## Fall 2024
