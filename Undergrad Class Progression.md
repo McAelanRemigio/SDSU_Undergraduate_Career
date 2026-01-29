@@ -47,6 +47,8 @@ Additional coursework not detailed here.
 - Data Scientist, SDSU Research Foundation (promoted Oct 2024)  
 - Academic Mentor, Center for Commuter Life
 
+Additional coursework not detailed here.
+
 ---
 
 ## Spring 2025
@@ -56,6 +58,13 @@ Additional coursework not detailed here.
 - 📎 [CS 514 – Database Theory and Implementation](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/CS%20514%3A%20Database%20Theory%20and%20Implementation%20(SQL)) (3 units)
 - 📎 [LING 572 – Python Scripting](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/LING%20572%3A%20Python%20Scripting) (3 units)
 - 📎 [STAT 410 – R Programming and Data Science](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/STAT%20410%3A%20R%20Programming%20and%20Data%20Science) (3 units)
+
+### Concurrent Experience
+- Data Scientist, SDSU Research Foundation (through May 2025)  
+- Academic Mentor, Center for Commuter Life
+- Data Scientist, Vera C. Rubin Observatory (started May 2025)
+
+Additional coursework not detailed here.
 
 ---
 
@@ -67,8 +76,10 @@ Additional coursework not detailed here.
 - 📎 [LEAD 405 – Enacting Leadership](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Minor-Leadership-Development/Upper_Division/LEAD%20405%3A%20Enacting%20Leadership%20Capstone) (3 units)
 
 ### Concurrent Experience
-- Operations & Resources Analyst, SDSU Career Services  
+- Operations & Resources Analyst, SDSU Career Services 
 - (Ended mentoring role)
+
+Additional coursework not detailed here.
 
 ---
 
@@ -79,5 +90,9 @@ Additional coursework not detailed here.
 - 📎 [CS 577 – Principles and Techniques of Data Science](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Upper_Division/CS%20577%3A%20Principles%20and%20Techniques%20of%20Data%20Science%20(Python)) (3 units)
 - 🧾 MATH 252 – Calculus III (4 units)
 - 🧾 MATH 254 – Linear Algebra (3 units)
+
+### Concurrent Experience
+- Operations & Resources Analyst, SDSU Career Services
+- Applied Data Science Researcher, SDSU Disease Modeling (DiMo) Lab
 
 Additional coursework not detailed here.
